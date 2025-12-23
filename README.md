@@ -1,16 +1,84 @@
-## Hi there 👋
+# 💻 Natanael de Sousa
 
-<!--
-**Natan11ael/Natan11ael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Junior -> Pleno`**
+Sou estudante da área da tecnologia 2 anos. Acabei de finalizar o Ensino Médio + curso Técnico de Informática da minha escola. Atualmente, estou me aprofundando em Full-Stack(Front-end & Back-end), Tecnologias NodeJS, React.js, Vue.js e Flutter. Todo meu conhecimento é Autodidata, sei basico em duas linguagems (inglês & espanhol) + português nativo. Sempre tive um grande apreço pela tecnologia e tenho grandes objetivos com a minha carreira.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="http://www.youtube.com/@Naytan-Fox">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC1ZpUH5qTqX_IBkCyORl_zA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="http://www.youtube.com/@Naytan-Fox">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC1ZpUH5qTqX_IBkCyORl_zA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/NaytanFox0?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/NaytanFox0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/NaytanFox0?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/NaytanFox0?label=Seguidores&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Linguagens e Tecnologias
+---
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+📧 Contatos e redes sociais
+---
+<p>
+  <a href="mailto:natannakenoael@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/naytanfox.0" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Naytan-Fox" target="_blank">
+    <img src="./youtube.svg" width="40"/>
+  </a>
+</p>
+
+
+📊 Estatísticas
+---
+
+<p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=NaytanFox0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+  
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaytanFox0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+</p>
