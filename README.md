@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior -> Pleno`**
 
-Sou estudante da área da tecnologia 2 anos. Acabei de finalizar o Ensino Médio + curso Técnico de Informática da minha escola. Atualmente, estou me aprofundando em Full-Stack(Front-end & Back-end), Tecnologias NodeJS, React.js, Vue.js e Flutter. Todo meu conhecimento é Autodidata, sei basico em duas linguagems (inglês & espanhol) + português nativo. Sempre tive um grande apreço pela tecnologia e tenho grandes objetivos com a minha carreira.
+Sou entusiasta da área de tecnologia a 2.5 anos, finalizei Ensino Médio + curso Técnico de Informática. Atualmente, estou me aprofundando em Full-Stack(Front-end & Back-end), nas Tecnologias NodeJS, React.js, Vue.js e GLFW(cpp). Todo meu conhecimento é Autodidata, sei basico nas linguagems (inglês & espanhol), Sempre tive um grande apreço pela tecnologia e tenho grandes objetivos com a minha carreira. Pretendo Trazer meu canal com programação intuitiva tanto com engines completas ou ferrramentas inteiramente baseada em código brudo.
 
 <p align="left">
   <a href="http://www.youtube.com/@Naytan-Fox">
